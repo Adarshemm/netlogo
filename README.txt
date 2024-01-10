@@ -1,0 +1,1 @@
+This is a version on NETLOGO. It is an assignment I was working on post-Covid period, initializing number of turtles  with infected and non infected, with different case scenerios like Self-Isolation, Social-distancing and Travel-restrictions. By varying the infection rate, survival rate, immunity duration, undetected period, illness duration. This was a fun task.
